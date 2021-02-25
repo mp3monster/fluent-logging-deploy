@@ -1,7 +1,3 @@
-mv setup.sh ..
-cd ..
-rm -rf main.zip
-rm -rf fluent-logging*
 mkdir fluent-logging
 cd fluent-logging
 mkdir simulator
